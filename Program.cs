@@ -14,7 +14,7 @@ namespace HakutAI
     class Program
     {
         private const string subscriptionKey = 
-            "11de56cbb57d4a0a877d3d1726b836b6";
+            "Subsciption Key";
         private const string baseUri = 
             "https://northeurope.api.cognitive.microsoft.com/";
 
