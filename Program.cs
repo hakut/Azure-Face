@@ -200,17 +200,6 @@ namespace HakutAI
 
                 Console.ReadKey();
             }
-            //DeleteGroup("family");
-
-            //CreatePersonGroup("family","Family");
-
-            //AddPersontoGroup("family", "Mehmet Samet HAKUT", 
-            //@"C:\Users\Mehmet Samet HAKUT\Desktop\me");
-
-            //TrainAI("family");
-
-            //IdentifyFace("family", @"C:\Users\
-            //Mehmet Samet HAKUT\Desktop\me.jpg");
 
             
         }
